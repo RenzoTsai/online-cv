@@ -143,13 +143,10 @@ skills:
 
     toolset:
       - name: C
-        level: 80%
+        level: 98%
 
       - name: Java
         level: 98%
 
       - name: Python
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
