@@ -65,7 +65,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Exchange in Computer Science
+    - degree: Exchange (Computer Science)
       university: National University of Singapore
       time: 2020.1 - 2020.5
       details: |
@@ -81,7 +81,7 @@ experiences:
       time: 2019.2 - 2019.7
       company: Introduction to Computer Science
       details: |
-        As a TA in Introduction to Computer Science, I help the all the freshmen
+        As a TA of * Introduction to Computer Science *, I help the all the freshmen
         in our university have a better understaing of basic knowledge of CS. I 
         help them debug offline and ask their questions about this module online.
       
@@ -98,7 +98,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      There are some projects I have done:
+      Here are some projects I have done:
     assignments:
       - title: Duke
         link: "https://github.com/RenzoTsai/duke"
