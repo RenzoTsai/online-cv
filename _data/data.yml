@@ -150,10 +150,10 @@ skills:
 
     toolset:
       - name: C
-        level: 98%
+        level: 90%
 
       - name: Java
-        level: 98%
+        level: 90%
 
       - name: Python
         level: 70%
