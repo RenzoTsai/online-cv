@@ -68,7 +68,18 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
 experiences:
+    - role: Research on large touch screen interaction
+      time: 2019.10 - 
+      company: Institute of Software, CAS
+      details: |
+        This is a HCI Research Related to Large Touch Screen’s User Fatigue and UI Design,
+         in Institution of Software, Chinese Academy of Sciences. We majorly focus on 
+         how duration and pose position affect user fatigue and with the principle what UI Design we can re-invent.
+      
+
+work_experiences:
     - role: Teaching Assistant
       time: 2019.2 - 2019.7
       company: Introduction to Computer Science
@@ -95,6 +106,10 @@ projects:
       - title: Duke
         link: "https://github.com/RenzoTsai/duke"
         tagline: "A software to help people manage their daily tasks and it is optimized for users who want to type fast with CLI."
+
+      - title: Module Manager
+        link: "https://github.com/RenzoTsai/tp"
+        tagline: "A software to help people manage the modules they take in National University of Singapore."
 
       - title: OS
         link: "https://github.com/RenzoTsai/OS"
@@ -141,4 +156,4 @@ skills:
         level: 98%
 
       - name: Python
-        level: 60%
+        level: 70%
