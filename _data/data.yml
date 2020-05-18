@@ -162,20 +162,21 @@ skills:
         level: 70%
         
 academic-performance:
-  title: Course with Good Academic Performance in Computer Science
+  title: Course with Good Grades in CS (GPA:3.74)
 
   toolset:
-      - name: Computer Architecture
-        level: 90%
+
+      - name: Human-Computer Interaction
+        level: 91%
 
       - name: Practice of Operating System
         level: 91%
 
-      - name: Artificial Intelligence - The Basics
+      - name: Computer Architecture
         level: 90%
 
-      - name: Human-Computer Interaction
-        level: 91%
+      - name: Artificial Intelligence - The Basics
+        level: 90%
 
       - name: Introduction to Computer Science
         level: 90%
