@@ -86,7 +86,7 @@ work_experiences:
       details: |
         As a TA of * Introduction to Computer Science *, I help the all the freshmen
         in our university have a better understaing of basic knowledge of CS. I 
-        help them debug offline and ask their questions about this module online.
+        help them debug face-to-face and answer their questions about this module.
       
 
     - role: Deputy Minister of Practice, Student Union
@@ -105,23 +105,23 @@ projects:
     assignments:
       - title: Duke
         link: "https://github.com/RenzoTsai/duke"
-        tagline: "A software to help people manage their daily tasks and it is optimized for users who want to type fast with CLI."
+        tagline: "(Java) A software to help people manage their daily tasks and it is optimized for users who want to type fast with CLI."
 
       - title: Module Manager
         link: "https://github.com/RenzoTsai/tp"
-        tagline: "A software to help people manage the modules they take in National University of Singapore."
+        tagline: "(Java) A software to help people manage the modules they take in National University of Singapore."
 
       - title: OS
         link: "https://github.com/RenzoTsai/OS"
-        tagline: "A simple OS on MIPS CPU."
+        tagline: "(C & MIPS Assembly) A simple OS on MIPS CPU."
 
       - title: myCPU
         link: "https://github.com/RenzoTsai/myCPU"
-        tagline: "A simple five stage pipeline MIPS CPU on FPGA"
+        tagline: "(Verilog) A simple five stage pipeline MIPS CPU on FPGA."
 
       - title: Sentiment Analysis in News
         link: "https://github.com/RenzoTsai/Machine-Learning-on-News-Sentiment"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "(Python) A comprehensive website template solution for startups/developers to market their mobile apps."
 
 # publications:
 #     title: Publications
@@ -157,3 +157,7 @@ skills:
 
       - name: Python
         level: 70%
+
+      - name: Assembly
+        level: 70%
+        
